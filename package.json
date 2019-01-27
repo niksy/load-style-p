@@ -1,6 +1,6 @@
 {
   "name": "load-style-p",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Load style as promise.",
   "main": "index.cjs.js",
   "module": "index.esm.js",
